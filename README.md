@@ -1,3 +1,17 @@
+
+Project Title:
+Python Debugging AI Prompt
+
+Description:
+This repository contains my submission for Python Screening Task 2: Write a Prompt for an AI Debugging Assistant. It includes solution for Python Screening Task 2: Write a Prompt for an AI Debugging Assistant
+
+Files Included:
+
+AI_Debugging_Prompt.md → Contains the AI prompt I wrote.
+
+README.md → Contains the reasoning, design choices, and answers to required questions.
+
+
 Question and Answer
 
 Why you worded it the way you did
